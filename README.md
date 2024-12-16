@@ -17,7 +17,7 @@
     <td ><h3 align="center">boundaries</h3>
        <li><b>roleplay:</b> nope<br></li>
        <li><b>touch:</b> ask first<br></li>
-       <li><b>.whisper/dm:</b> ok<br></li>  
+       <li><b>whisper/dm:</b> ok<br></li>  
     <h3 align="center">socials</h3>
       <a href="#">llink</a> <a href="#">llink</a> <a href="#">llink</a> <a href="#">llink</a> <a href="#">llink</a>
     </td>
