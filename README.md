@@ -13,6 +13,9 @@
        <b>server:</b> main safe<br>
        <b>languages:</b> ukrainian, english<br>
        <h3>boundaries</h3>
+       <b>roleplay:</b> nope<br>
+       <b>touch:</b> ask first<br> 
+       <b>whisper/dm:</b> ok<br> 
      </td>
   </tr>
 </table>
