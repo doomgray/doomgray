@@ -1,5 +1,4 @@
-<center>
-<table style="width:100%">
+<table align="center">
   <tr>
     <th align="center" colspan="2">WELCOME</th>
   </tr>
@@ -8,4 +7,3 @@
      <td>wip</td>
   </tr>
 </table>
-</center>
