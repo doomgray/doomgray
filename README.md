@@ -8,9 +8,9 @@
      <td width="40%"><h3 align="center">info</h3>
        <li><b>name:</b> nick, nicolas<br></li>
        <li><b>pronouns:</b> he/him<br></li>
+       <li><b>age:</b> 17<br></li>
        <li><b>sexuality:</b> pansexual <br></li>
        <li><b>gender:</b> male <br></li>
-       <li><b>server:</b> main safe<br></li>
        <li><b>languages:</b> ukrainian, english<br></li>
        <br>
      </td>
@@ -18,8 +18,9 @@
        <li><b>roleplay:</b> nope<br></li>
        <li><b>touch:</b> ask first<br></li>
        <li><b>whisper/dm:</b> ok<br></li>  
-    <h3 align="center">socials</h3>
-      <a href="#">llink</a> <a href="#">llink</a> <a href="#">llink</a> <a href="#">llink</a> <a href="#">llink</a>
+    <h3 align="center">game info</h3>
+      <li><b>server:</b> main safe<br></li>
+      <li><b>started playing:</b> 2019<br></li>
     </td>
   </tr>
 </table>
