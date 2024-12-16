@@ -3,7 +3,8 @@
     <th align="center" colspan="2"><b>welcome to my profile!<b></th>
   </tr>
   <tr>
-    <td> <img src="https://i.postimg.cc/6QP9s3TZ/pony-town-did-babygirl-stand-3x.png"> <img src="https://i.postimg.cc/rps8YWyc/pony-town-did-babyboy-stand-3x.png"> </td>
+    <td> <img src="https://i.postimg.cc/6QP9s3TZ/pony-town-did-babygirl-stand-3x.png" alt="diavolo"> <img src="https://i.postimg.cc/rps8YWyc/pony-town-did-babyboy-stand-3x.png" alt="doppio">
+   </td>
      <td>wip</td>
   </tr>
 </table>
