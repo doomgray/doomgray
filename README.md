@@ -19,6 +19,6 @@ start playing in 2019
     <td><p align="center"><img src="https://i.postimg.cc/4dpBjFpc/tumblr-25d3269fed920b213f557361dd06affd-0128f394-400.png" width="200" alt="doppio"></p>
   </tr>
         <tr>
-    <th align="right" colspan="3"">◡◡  art by <a href="https://www.pixiv.net/en/users/38955352">出雲@日語初心者</a> on pixiv ！！</th>
+    <th align="right" colspan="3""><h5>◡◡  art by <a href="https://www.pixiv.net/en/users/38955352">出雲@日語初心者</a> on pixiv ！！</h5></th>
   </tr>
 </table>
