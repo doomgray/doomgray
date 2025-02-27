@@ -13,7 +13,7 @@ pansexual  male  arospec<br>
 cluster b.  autism.  c-ptsd<br>
 <br>
 <b>diadoppio ﹠ jjba #1 fan</b><br>
-start playing since 2019
+start playing in 2019
 </p><br>
      </td>
   </tr>
