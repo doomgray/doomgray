@@ -3,7 +3,7 @@
     <th align="center" colspan="3""><b><h3> ❛  welcome to my profile  ❜</h3><b></th>
   </tr>
   <tr>
-    <td><p align="center"><img src="https://i.postimg.cc/qRdZbzrP/PPP-Diavolo2-Win.png" width="210" alt="diavolo">
+    <td><p align="center"><img src="https://i.postimg.cc/zXGdTt6c/Diavolo-ASB-Intro-1.gif" width="300" alt="diavolo">
    </td>
      <td>
 <br><p align="center">
