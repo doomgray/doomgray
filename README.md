@@ -7,5 +7,5 @@ im  <b>gray</b>  or  <b>nick</b>  /  nicolas<br>
 only  he  /  him.  ⠀<b>18</b> [  03.04  ]<br>
 <br>
 <b>start  playing  in  2019   !</b><br>
-<b>dni： </b>   under  16 ﹑   over  25 
+<a href="https://rentry.co/diavologray">rentry</a>    <b>﹑</b>       <a href="https://neospring.org/@diavologray?page=1">neospring</a>     <b>﹑</b>        <a href="https://www.tumblr.com/blog/diavologray">tumblr</a><b>    .</b>
 </p>
